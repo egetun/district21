@@ -1,4 +1,4 @@
-## Welcome to Project Milvus Wiki
+## Project Milvus Wiki
 
 #test
 [test]
