@@ -1,13 +1,12 @@
 ## District 21 Wiki
 
-#test
-[test]
+District21 is a free and open source run 'n' gun shoot 'em up 3d video game. Being a cross-platform development project the game is available for Linux, Mac OS X and Windows.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Development and Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+District 21 is built upon Blender Game Engine. 
 
 ```markdown
 Syntax highlighted code block
